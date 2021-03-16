@@ -1,0 +1,57 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on ⚡Arunav Konwar⚡</title>
+        <link>https://arunavkonwar.github.io/htgaa/posts/</link>
+        <description>Recent content in Posts on ⚡Arunav Konwar⚡</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 21 Feb 2021 07:55:12 +0530</lastBuildDate>
+        <atom:link href="https://arunavkonwar.github.io/htgaa/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>class01-overview-principles-practices</title>
+            <link>https://arunavkonwar.github.io/htgaa/posts/2021/02/class01-overview-principles-practices/</link>
+            <pubDate>Sun, 21 Feb 2021 07:55:12 +0530</pubDate>
+            
+            <guid>https://arunavkonwar.github.io/htgaa/posts/2021/02/class01-overview-principles-practices/</guid>
+            <description>content</description>
+            <content type="html"><![CDATA[<p>content</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>class02-designing-synbio-systems</title>
+            <link>https://arunavkonwar.github.io/htgaa/posts/2021/02/class02-designing-synbio-systems/</link>
+            <pubDate>Sun, 21 Feb 2021 07:55:12 +0530</pubDate>
+            
+            <guid>https://arunavkonwar.github.io/htgaa/posts/2021/02/class02-designing-synbio-systems/</guid>
+            <description>content</description>
+            <content type="html"><![CDATA[<p>content</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>class03-protein-design</title>
+            <link>https://arunavkonwar.github.io/htgaa/posts/2021/02/class03-protein-design/</link>
+            <pubDate>Sun, 21 Feb 2021 07:55:12 +0530</pubDate>
+            
+            <guid>https://arunavkonwar.github.io/htgaa/posts/2021/02/class03-protein-design/</guid>
+            <description>content</description>
+            <content type="html"><![CDATA[<p>content</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>class04-next-generation-synthesis</title>
+            <link>https://arunavkonwar.github.io/htgaa/posts/2021/02/class04-next-generation-synthesis/</link>
+            <pubDate>Sun, 21 Feb 2021 07:55:12 +0530</pubDate>
+            
+            <guid>https://arunavkonwar.github.io/htgaa/posts/2021/02/class04-next-generation-synthesis/</guid>
+            <description>content</description>
+            <content type="html"><![CDATA[<p>content</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
